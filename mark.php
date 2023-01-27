@@ -1,6 +1,6 @@
 
 <?php
-
+//comment
 require_once ('process/dbh.php');
 $id = (isset($_GET['id']) ? $_GET['id'] : '');
 $pid = (isset($_GET['pid']) ? $_GET['pid'] : '');
